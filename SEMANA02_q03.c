@@ -10,7 +10,7 @@
 //   }else if(b < a && c < a){
 //     maior = a;
 //     soma = c+b;
-//   }else if(a<b && c<b){
+//   }else{
 //     maior = b;
 //     soma = a+c;
 //   }
